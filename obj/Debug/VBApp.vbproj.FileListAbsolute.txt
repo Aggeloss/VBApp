@@ -1,0 +1,17 @@
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.vbprojAssemblyReference.cache
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form1.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form3.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Resources.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.vbproj.GenerateResource.cache
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.vbproj.CoreCompileInputs.cache
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\bin\Debug\VaseisNewApp.exe.config
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\bin\Debug\VaseisNewApp.exe
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\bin\Debug\VaseisNewApp.pdb
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\bin\Debug\VaseisNewApp.xml
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.exe
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.xml
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.pdb
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form2.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form4.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form5.resources
+C:\Users\aggel\source\repos\VaseisNewApp\VaseisNewApp\obj\Debug\VaseisNewApp.Form6.resources
